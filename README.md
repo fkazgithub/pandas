@@ -1,1 +1,2 @@
-# pandas
+pandasのサンプルコード
+walkingnavi.csvの位置情報データから最短距離にあたる位置座標同士を計算する。
